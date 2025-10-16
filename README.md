@@ -13,7 +13,7 @@ In this github account I have the following projects available on public reposit
   A simple implementation of a chess game built entirely in Java. I did this project this summer purely to practice my programming skills.
 
 - 📱 [**Calculator**](https://github.com/SergioPMz/AndroidStudio-Calculator)  
-  A calculator developed in android studio.
+  A calculator developed in Android Studio.
   
 ## 🌱 What I'm Learning
 
@@ -23,5 +23,3 @@ I'm currently focused on improving my skills in:
 - Algorithm design and problem-solving  
 - Data structures and clean code practices  
 - Exploring new programming languages and technologies
-
-Thanks for visiting my GitHub!
